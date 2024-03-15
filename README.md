@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @car-din-13
+- 🌱 I’m currently learning full stack web development, making things look pretty~
